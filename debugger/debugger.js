@@ -4,8 +4,6 @@ var deb = (function() {
 	var hasInit = false;
 	var feedNumber;
 	// Unit number from MainOffline.init argument;
-	
-	trace('deb loaded');
 
 	var me = {
 		init : function() {
@@ -17,6 +15,35 @@ var deb = (function() {
 
 		showTree : function() {
 			mainJS();
+		},
+
+		canSkip : function() {
+			// var org_permissionCheckResultHandler = window.permissionCheckResultHandler;
+
+			window.permissionCheckResultHandler = function(args) {
+				
+				trace('override surrogate.js permissionCheckResultHandler');
+				
+				var callback = offlineLoaders[e.data.index].callback;
+				var data = e.data.result;
+
+				offlineLoaders[e.data.index] = null;
+
+				if (data.indexOf("true") > -1) {
+					//return true;
+					if ( typeof callback == 'function') {
+						callback();
+					}
+				} else {
+					alert('you do not have permission to view this yet!');
+					
+					if ( typeof callback == 'function') {
+						callback();
+					}
+					
+					return false;
+				}
+			}
 		}
 	};
 
@@ -99,14 +126,14 @@ var deb = (function() {
 					currentLevel--;
 				} else {
 					//if ($(this).find('Show-in-outline-:first').text() != '1') {
-						if (currentLevel == 3) {
-							markup += "<li class='groupchild'><span id='menuitem'><a href='#' id=" + index + " class='level2'>" + $(this).find('title:first').text() + "</a></span>";
-							//markup += "<li><span class='menuitem'><a href='#' id=" + index + " class='level2'>" + $(this).find('title:first').text() + "</a></span>";
-						} else {
-							markup += "<li><span id='menuitem'><a href='#' id=" + index + ">" + $(this).find('title:first').text() + "</a></span>";
-							//markup += "<li><span class='menuitem'><a href='#' id=" + index + ">" + $(this).find('title:first').text() + "</a></span>";
-						}
-						markup += "</li>";
+					if (currentLevel == 3) {
+						markup += "<li class='groupchild'><span id='menuitem'><a href='#' id=" + index + " class='level2'>" + $(this).find('title:first').text() + "</a></span>";
+						//markup += "<li><span class='menuitem'><a href='#' id=" + index + " class='level2'>" + $(this).find('title:first').text() + "</a></span>";
+					} else {
+						markup += "<li><span id='menuitem'><a href='#' id=" + index + ">" + $(this).find('title:first').text() + "</a></span>";
+						//markup += "<li><span class='menuitem'><a href='#' id=" + index + ">" + $(this).find('title:first').text() + "</a></span>";
+					}
+					markup += "</li>";
 					//}
 				}
 				//markup += "</li>";
@@ -131,3 +158,4 @@ var deb = (function() {
 	return me;
 })();
 
+console.log('deb loaded', deb);
