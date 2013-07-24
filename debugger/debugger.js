@@ -4,6 +4,8 @@ var deb = (function() {
 	var hasInit = false;
 	var feedNumber;
 	// Unit number from MainOffline.init argument;
+	
+	trace('deb loaded');
 
 	var me = {
 		init : function() {
