@@ -4,6 +4,8 @@ var deb = (function() {
 	var hasInit = false;
 	var feedNumber;
 	// Unit number from MainOffline.init argument;
+		
+	var $menuContent; // Tree menu html
 
 	var me = {
 		init : function() {
@@ -11,16 +13,24 @@ var deb = (function() {
 			trace('feednumber', feedNumber);
 
 			me.showTree();
+			
+			me.canSkip();
 		},
 
-		showTree : function() {
+		showTree : function(unitNum) {
+			feedNumber = unitNum ? unitNum : feedNumber;
 			mainJS();
 		},
+		
+		hideTree : function()
+		{
+			if ($menuContent) $menuContent.hide();
+		},		
 
 		canSkip : function() {
 			// var org_permissionCheckResultHandler = window.permissionCheckResultHandler;
 
-			window.permissionCheckResultHandler = function(args) {
+			window.permissionCheckResultHandler = function(e) {
 				
 				trace('override surrogate.js permissionCheckResultHandler');
 				
@@ -35,7 +45,7 @@ var deb = (function() {
 						callback();
 					}
 				} else {
-					alert('you do not have permission to view this yet!');
+					// alert('you do not have permission to view this yet!');
 					
 					if ( typeof callback == 'function') {
 						callback();
@@ -44,6 +54,29 @@ var deb = (function() {
 					return false;
 				}
 			}
+		},
+		
+		login : function() {
+			var un = '60';
+			var pass = 'd41d8cd98f00b204e9800998ecf8427e';
+			// LIM.surrogate.loadUser("http://myprime.o.wwbtc.com/passcheck.php?uid=" + un + "&md5=" + pass);
+			LIM.surrogate.loadUser("http://myprime.o.wwbtc.com/passcheck.php?uid=60" + "&md5=d41d8cd98f00b204e9800998ecf8427e");
+
+		},
+		
+		next : function(){
+			trace('stepNumber : ' + stepNumber + ' nid : ' + getNidByStep(stepNumber));
+			handleBranchAsset(getNidByStep(stepNumber));
+		},
+		
+		handleCourse : function()
+		{
+			var object = {
+				'id' : '11339',
+				'src' : '11339.swf?pri',
+				'title' : 'Lesson Intro Screen',
+				'type' : ''
+			};
 		}
 	};
 
@@ -89,7 +122,8 @@ var deb = (function() {
 	function playerJSparseXML(xml) {
 		var startNode = $(xml).find('node-collection:first');
 		var debug_menuMarkUp = playerJSmakeToc(startNode);
-		var menuContent = $("<div style='position:absolute; top: 0; z-index:9990; width: 400px; height: 400px; overflow: auto;'><ul id='navigation'>" + debug_menuMarkUp + "</ul></div>").appendTo('#titleBar');
+		if ($menuContent) $menuContent.empty(); // clear out old markups
+		$menuContent = $("<div id='debug-tree' style='position:absolute; top: 0; right: 20px; z-index:9990; width: 300px; height: 600px; overflow: auto; background-color: grey;'><ul id='navigation'>" + debug_menuMarkUp + "</ul></div>").appendTo('#titleBar');
 	}
 
 	function playerJSmakeToc(xml) {
