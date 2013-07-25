@@ -1,11 +1,11 @@
 var deb = (function() {
 
 	var mainOfflineInit_origin = MainOffline.init;
-	var hasInit = false;
-	var feedNumber;
 	// Unit number from MainOffline.init argument;
-		
-	var $menuContent; // Tree menu html
+	var feedNumber;
+
+	var $menuContent;
+	// Tree menu html
 
 	var me = {
 		init : function() {
@@ -13,27 +13,45 @@ var deb = (function() {
 			trace('feednumber', feedNumber);
 
 			me.showTree();
-			
+
 			me.canSkip();
 		},
 
-		showTree : function(unitNum) {
-			feedNumber = unitNum ? unitNum : feedNumber;
-			mainJS();
+		showTree : function() {
+			$.ajax({
+				url : "data/asset-feed/" + feedNumber + ".xml",
+				dataType : ($.browser.msie) ? "text" : "xml",
+				success : function(data) {
+					var xml;
+					if ( typeof data == "string") {
+						xml = new ActiveXObject("Microsoft.XMLDOM");
+						xml.async = false;
+						xml.loadXML(data);
+					} else {
+
+						xml = data;
+					}
+
+					playerJSparseXML(xml);
+				},
+				error : function() {
+					trace('Error loading ' + feedNumber + '.xml');
+				}
+			});
 		},
-		
-		hideTree : function()
-		{
-			if ($menuContent) $menuContent.hide();
-		},		
+
+		hideTree : function() {
+			if ($menuContent)
+				$menuContent.hide();
+		},
 
 		canSkip : function() {
 			// var org_permissionCheckResultHandler = window.permissionCheckResultHandler;
 
 			window.permissionCheckResultHandler = function(e) {
-				
+
 				trace('override surrogate.js permissionCheckResultHandler');
-				
+
 				var callback = offlineLoaders[e.data.index].callback;
 				var data = e.data.result;
 
@@ -46,16 +64,16 @@ var deb = (function() {
 					}
 				} else {
 					// alert('you do not have permission to view this yet!');
-					
+
 					if ( typeof callback == 'function') {
 						callback();
 					}
-					
+
 					return false;
 				}
 			}
 		},
-		
+
 		login : function() {
 			var un = '60';
 			var pass = 'd41d8cd98f00b204e9800998ecf8427e';
@@ -63,66 +81,78 @@ var deb = (function() {
 			LIM.surrogate.loadUser("http://myprime.o.wwbtc.com/passcheck.php?uid=60" + "&md5=d41d8cd98f00b204e9800998ecf8427e");
 
 		},
-		
-		next : function(){
+
+		next : function() {
 			trace('stepNumber : ' + stepNumber + ' nid : ' + getNidByStep(stepNumber));
 			handleBranchAsset(getNidByStep(stepNumber));
 		},
-		
-		handleCourse : function()
-		{
+
+		handleCourse : function() {
 			var object = {
 				'id' : '11339',
 				'src' : '11339.swf?pri',
 				'title' : 'Lesson Intro Screen',
 				'type' : ''
 			};
+		},
+
+		gotoUnit : function(num) {
+			/*
+			 *
+			 // node id of the first scene of the unit.
+			 var nid = 11363;
+
+			 if ( num = 1) {
+			 nid = 11493;
+			 } else if ( num = 2) {
+			 nid = 11336;
+			 } else {
+			 nid = 11363;
+			 }
+
+			 if (surrogate) {
+			 var requestLoader = {
+			 failcallback : function() {
+			 trace('failed at goto Unit');
+			 }
+			 };
+
+			 requestLoader.data = {
+			 index : offlineLoaders.push(requestLoader) - 1,
+			 request : {
+			 method : "POST",
+			 url : "/coursedata/course_data/jumpToLesson/",
+			 data : {
+			 'nid' : nid
+			 }
+			 }
+			 };
+
+			 surrogate.load(requestLoader, "goToLesson");
+			 }
+			 */
 		}
 	};
 
 	/*
 	 *
 	 */
-	trace(MainOffline.init);
 	MainOffline.init = function(args) {
 		trace('MainOffline.init override');
-		feedNumber = args;
-
-		if (!hasInit)
-			me.init();
-
 		mainOfflineInit_origin(args);
-	}
-	function mainJS() {
-		if (!feedNumber)
-			feedNumber = 1;
 
-		$.ajax({
-			url : "data/asset-feed/" + feedNumber + ".xml",
-			dataType : ($.browser.msie) ? "text" : "xml",
-			success : function(data) {
-				var xml;
-				if ( typeof data == "string") {
-					xml = new ActiveXObject("Microsoft.XMLDOM");
-					xml.async = false;
-					xml.loadXML(data);
-				} else {
-
-					xml = data;
-				}
-
-				playerJSparseXML(xml);
-			},
-			error : function() {
-				trace('Error loading ' + feedNumber + '.xml');
-			}
-		});
+		if (args) {
+			feedNumber = args;
+			me.init();
+		}
 	}
 
 	function playerJSparseXML(xml) {
 		var startNode = $(xml).find('node-collection:first');
 		var debug_menuMarkUp = playerJSmakeToc(startNode);
-		if ($menuContent) $menuContent.empty(); // clear out old markups
+		if ($menuContent)
+			$menuContent.empty();
+		// clear out old markups
 		$menuContent = $("<div id='debug-tree' style='position:absolute; top: 0; right: 20px; z-index:9990; width: 300px; height: 600px; overflow: auto; background-color: grey;'><ul id='navigation'>" + debug_menuMarkUp + "</ul></div>").appendTo('#titleBar');
 	}
 
@@ -192,4 +222,4 @@ var deb = (function() {
 	return me;
 })();
 
-console.log('deb loaded', deb);
+console.log('deb loaded');
