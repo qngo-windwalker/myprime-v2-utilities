@@ -1,0 +1,1858 @@
+<ICEObject>
+	<system>
+		<playerMode>presentation</playerMode>
+		<contentMode>HTML</contentMode>
+		<theme>custom</theme>
+		<branding>DOI_Seal_55x54.png</branding>
+		<UI>
+			<search>false</search>
+			<informationPanel align="left">
+				<navigation/>
+				<resources></resources>
+				<acronyms>false</acronyms>
+			</informationPanel>
+			<toolBar dockable="false">
+				<previousButton/>
+				<nextButton/>
+				<notes/>
+				<progressBar/>
+			</toolBar>
+			<help>
+				<option>Walkthrough</option>
+				<option>About</option>
+			</help>
+		</UI>
+	</system>
+	<module id="2">
+		<title>Sample MyPrime Course</title>
+		<node-collection>
+			<node id="11336" type="scene">
+				<title>Reflecting Unit Introduction</title>
+				<node-collection>
+					<node id="11627" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="2" type="evaluation">-->
+							<node id="11339" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11339/evalobject.xml" />-->
+								<file src="11339.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11337" type="">
+								<title>Unit 2: Reflecting</title>
+								<!--<file src="/video-view/11337/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11337&amp;videoid=738431236001&amp;title=Unit+2%3A+Reflecting" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11338" type="">
+								<title>Introduction Video</title>
+								<!--<file src="/video-view/11338/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11338&amp;videoid=1540444480001&amp;title=Introduction+Video&amp;cc=%2E%2E/data/closed_caption/U2L0C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="5" type="evaluation">-->
+							<node id="11340" type="">
+								<title>My Experiences Assessment</title>
+								<!--<file src="/assets/evalobject/11340/evalobject.xml" />-->
+								<file src="11340.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="6" type="evaluation">-->
+							<node id="11398" type="">
+								<title>My Experiences Assessment 2</title>
+								<!--<file src="/assets/evalobject/11398/evalobject.xml" />-->
+								<file src="11398.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="7" type="evaluation">-->
+							<node id="11399" type="">
+								<title>My Experiences Assessment 3</title>
+								<!--<file src="/assets/evalobject/11399/evalobject.xml" />-->
+								<file src="11399.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11628" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="11341" type="">
+								<title>Summary Video</title>
+								<!--<file src="/video-view/11341/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11341&amp;videoid=819903068001&amp;title=Summary+Video&amp;cc=%2E%2E/data/closed_caption/U2L0C4_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11342" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="11342.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="3" type="scene">
+				<title>Green Phase: Low-Risk Choices</title>
+				<node-collection>
+					<node id="11629" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="12" type="evaluation">-->
+							<node id="11400" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11400/evalobject.xml" />-->
+								<file src="11400.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="29" type="">
+								<title>Green Phase: Low-Risk Choices</title>
+								<!--<file src="/video-view/29/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=29&amp;videoid=738436461001&amp;title=Green+Phase%3A+Low-Risk+Choices" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="30" type="">
+								<title>Green Phase Hallmarks</title>
+								<!--<file src="/video-view/30/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=30&amp;videoid=1452873373001&amp;title=Green+Phase+Hallmarks&amp;cc=%2E%2E/data/closed_caption/U2L1C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11630" type="">
+						<title>Characteristics</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="31" type="">
+								<title>Importance and Feelings of Use</title>
+								<!--<file src="/video-view/31/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=31&amp;videoid=1452873372001&amp;title=Importance+and+Feelings+of+Use&amp;cc=%2E%2E/data/closed_caption/U2L1C3_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="32" type="">
+								<title>Other Characteristics Video</title>
+								<!--<file src="/video-view/32/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=32&amp;videoid=834932935001&amp;title=Other+Characteristics+Video&amp;cc=%2E%2E/data/closed_caption/U2L1C4_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="304" type="">
+								<title>Check for Understanding</title>
+								<!--<file src="/video-view/304/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=304&amp;videoid=738359089001&amp;title=Check+for+Understanding&amp;cc=%2E%2E/data/closed_caption/U2L1C6_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11631" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="20" type="evaluation">-->
+							<node id="305" type="">
+								<title>Check for Understanding Questions</title>
+								<!--<file src="/assets/evalobject/305/evalobject.xml" />-->
+								<file src="305.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="21" type="evaluation">-->
+							<node id="11401" type="">
+								<title>Check for Understanding Questions 2</title>
+								<!--<file src="/assets/evalobject/11401/evalobject.xml" />-->
+								<file src="11401.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="35" type="">
+								<title>Summary Video</title>
+								<!--<file src="/video-view/35/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=35&amp;videoid=738346853001&amp;title=Summary+Video&amp;cc=%2E%2E/data/closed_caption/U2L1C8_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="307" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="307.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="308" type="scene">
+				<title>The High Risk Continuum</title>
+				<node-collection>
+					<node id="11632" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="11403" type="">
+								<title>The High-Risk Continuum</title>
+								<!--<file src="/video-view/11403/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11403&amp;videoid=738433091001&amp;title=The+High-Risk+Continuum" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11404" type="">
+								<title>The High-Risk Continuum Video</title>
+								<!--<file src="/video-view/11404/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11404&amp;videoid=782446809001&amp;title=The+High-Risk+Continuum+Video&amp;cc=%2E%2E/data/closed_caption/U2L2AC2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="309" type="scene">
+				<title>Yellow Phase: High-Risk Choices</title>
+				<node-collection>
+					<node id="11633" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="28" type="evaluation">-->
+							<node id="11405" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11405/evalobject.xml" />-->
+								<file src="11405.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="310" type="">
+								<title>Yellow Phase: High-Risk Choices</title>
+								<!--<file src="/video-view/310/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=310&amp;videoid=738431237001&amp;title=Yellow+Phase%3A+High-Risk+Choices" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="311" type="">
+								<title>Yellow Phase Hallmarks</title>
+								<!--<file src="/video-view/311/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=311&amp;videoid=782446808001&amp;title=Yellow+Phase+Hallmarks&amp;cc=%2E%2E/data/closed_caption/U2L2C4_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11634" type="">
+						<title>Characteristics</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="312" type="">
+								<title>Importance/Feelings of Use</title>
+								<!--<file src="/video-view/312/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=312&amp;videoid=778783627001&amp;title=Importance%2FFeelings+of+Use&amp;cc=%2E%2E/data/closed_caption/U2L2C6_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="313" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/313/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=313&amp;videoid=1508125129001&amp;title=Social+Dependence&amp;cc=%2E%2E/data/closed_caption/U2L2C8_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11635" type="">
+						<title>Outcomes</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="314" type="">
+								<title>Yellow Phase Outcomes Video</title>
+								<!--<file src="/video-view/314/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=314&amp;videoid=738342401001&amp;title=Yellow+Phase+Outcomes+Video&amp;cc=%2E%2E/data/closed_caption/U2L2C9_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="36" type="evaluation">-->
+							<node id="11324" type="">
+								<title>Yellow Phase Outcomes</title>
+								<!--<file src="/assets/evalobject/11324/evalobject.xml" />-->
+								<file src="11324.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11325" type="">
+								<title>Tolerance</title>
+								<!--<file src="/video-view/11325/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11325&amp;videoid=739498744001&amp;title=Tolerance&amp;cc=%2E%2E/data/closed_caption/U2L2C11_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="315" type="">
+								<title>Thinking and Memory Changes: Muddy Thinking</title>
+								<!--<file src="/video-view/315/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=315&amp;videoid=820184714001&amp;title=Thinking+and+Memory+Changes%3A+Muddy+Thinking+&amp;cc=%2E%2E/data/closed_caption/U2L2C12_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="316" type="">
+								<title>Rebound Effects: Hangovers</title>
+								<!--<file src="/video-view/316/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=316&amp;videoid=772425613001&amp;title=Rebound+Effects%3A+Hangovers&amp;cc=%2E%2E/data/closed_caption/U2L2C13_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="317" type="">
+								<title>Problem Outcomes: Increased Risk for Problems</title>
+								<!--<file src="/video-view/317/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=317&amp;videoid=1452895272001&amp;title=Problem+Outcomes%3A+Increased+Risk+for+Problems+&amp;cc=%2E%2E/data/closed_caption/U2L2C14A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11636" type="">
+						<title>Marketing</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="318" type="">
+								<title>Marketing Video</title>
+								<!--<file src="/video-view/318/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=318&amp;videoid=1483692310001&amp;title=Marketing+Video&amp;cc=%2E%2E/data/closed_caption/U2L2C15_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11637" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="319" type="">
+								<title>Summary Info Graphic</title>
+								<!--<file src="/video-view/319/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=319&amp;videoid=1538785981001&amp;title=Summary+Info+Graphic&amp;cc=%2E%2E/data/closed_caption/U2L2C17_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="320" type="">
+								<title>Progression Video</title>
+								<!--<file src="/video-view/320/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=320&amp;videoid=1537539672001&amp;title=Progression+Video&amp;cc=%2E%2E/data/closed_caption/U2L2C18_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="46" type="evaluation">-->
+							<node id="321" type="">
+								<title>Check for Understanding</title>
+								<!--<file src="/assets/evalobject/321/evalobject.xml" />-->
+								<file src="321.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="47" type="evaluation">-->
+							<node id="11406" type="">
+								<title>Check for Understanding 2</title>
+								<!--<file src="/assets/evalobject/11406/evalobject.xml" />-->
+								<file src="11406.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="48" type="evaluation">-->
+							<node id="11407" type="">
+								<title>Check for Understanding 3</title>
+								<!--<file src="/assets/evalobject/11407/evalobject.xml" />-->
+								<file src="11407.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="49" type="evaluation">-->
+							<node id="11408" type="">
+								<title>Check for Understanding 4</title>
+								<!--<file src="/assets/evalobject/11408/evalobject.xml" />-->
+								<file src="11408.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11638" type="">
+						<title>Review</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="322" type="">
+								<title>Review Matrix Video</title>
+								<!--<file src="/video-view/322/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=322&amp;videoid=738346772001&amp;title=Review+Matrix+Video&amp;cc=%2E%2E/data/closed_caption/U2L2C20_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="52" type="evaluation">-->
+							<node id="11409" type="">
+								<title>Review Matrix Menu</title>
+								<!--<file src="/assets/evalobject/11409/evalobject.xml" />-->
+								<file src="11409.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11502" type="">
+								<title>Yellow Phase Hallmarks</title>
+								<!--<file src="/video-view/11502/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11502&amp;videoid=782446808001&amp;title=Yellow+Phase+Hallmarks&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C4_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11503" type="">
+								<title>Importance/Feelings of Use</title>
+								<!--<file src="/video-view/11503/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11503&amp;videoid=778783627001&amp;title=Importance%2FFeelings+of+Use&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C6_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11504" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/11504/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11504&amp;videoid=1508125129001&amp;title=Social+Dependence&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C8_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11505" type="">
+								<title>Tolerance</title>
+								<!--<file src="/video-view/11505/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11505&amp;videoid=739498744001&amp;title=Tolerance&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C11_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11506" type="">
+								<title>Thinking &amp; Memory Changes: Muddy Thinking</title>
+								<!--<file src="/video-view/11506/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11506&amp;videoid=820184714001&amp;title=Thinking+%26amp%3B+Memory+Changes%3A+Muddy+Thinking&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C12_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11507" type="">
+								<title>Rebound Effects: Hangovers</title>
+								<!--<file src="/video-view/11507/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11507&amp;videoid=772425613001&amp;title=Rebound+Effects%3A+Hangovers&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C13_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11508" type="">
+								<title>Problem Outcomes: Increased Risk for Problems</title>
+								<!--<file src="/video-view/11508/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11508&amp;videoid=1452895272001&amp;title=Problem+Outcomes%3A+Increased+Risk+for+Problems&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L2C14A_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="323" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="323.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="324" type="scene">
+				<title>Orange Phase: Psychological Dependence</title>
+				<node-collection>
+					<node id="11639" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="62" type="evaluation">-->
+							<node id="11410" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11410/evalobject.xml" />-->
+								<file src="11410.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="327" type="">
+								<title>Orange Phase: Psychological Dependence</title>
+								<!--<file src="/video-view/327/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=327&amp;videoid=738436462001&amp;title=Orange+Phase%3A+Psychological+Dependence" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="328" type="">
+								<title>Orange Phase Hallmarks</title>
+								<!--<file src="/video-view/328/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=328&amp;videoid=1560964863001&amp;title=Orange+Phase+Hallmarks&amp;cc=%2E%2E/data/closed_caption/U2L3C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11640" type="">
+						<title>Characteristics</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="329" type="">
+								<title>Psychological Dependence</title>
+								<!--<file src="/video-view/329/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=329&amp;videoid=778783624001&amp;title=Psychological+Dependence&amp;cc=%2E%2E/data/closed_caption/U2L3C4_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="330" type="">
+								<title>State Dependent Learning</title>
+								<!--<file src="/video-view/330/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=330&amp;videoid=738346770001&amp;title=State+Dependent+Learning&amp;cc=%2E%2E/data/closed_caption/U2L3C5A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="331" type="">
+								<title>The State Dependent Learning Window</title>
+								<!--<file src="/video-view/331/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=331&amp;videoid=821417097001&amp;title=The+State+Dependent+Learning+Window&amp;cc=%2E%2E/data/closed_caption/U2L3C5B_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="332" type="">
+								<title>State Dependent Learning in Action</title>
+								<!--<file src="/video-view/332/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=332&amp;videoid=1554079965001&amp;title=State+Dependent+Learning+in+Action&amp;cc=%2E%2E/data/closed_caption/U2L3C6A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="333" type="">
+								<title>Tolerance and State Dependent Learning</title>
+								<!--<file src="/video-view/333/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=333&amp;videoid=821406617001&amp;title=Tolerance+and+State+Dependent+Learning+&amp;cc=%2E%2E/data/closed_caption/U2L3C6B_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="334" type="">
+								<title>State Dependent Learning in Action, Part 2</title>
+								<!--<file src="/video-view/334/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=334&amp;videoid=760565542001&amp;title=State+Dependent+Learning+in+Action%2C+Part+2&amp;cc=%2E%2E/data/closed_caption/U2L3C6C_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="335" type="">
+								<title>Other Characteristics</title>
+								<!--<file src="/video-view/335/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=335&amp;videoid=821399162001&amp;title=Other+Characteristics&amp;cc=%2E%2E/data/closed_caption/U2L3C6D_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="336" type="">
+								<title>State Dependent Learning in Action, Part 3</title>
+								<!--<file src="/video-view/336/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=336&amp;videoid=820182808001&amp;title=State+Dependent+Learning+in+Action%2C+Part+3&amp;cc=%2E%2E/data/closed_caption/U2L3C6E_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="337" type="">
+								<title>Defense of Choices</title>
+								<!--<file src="/video-view/337/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=337&amp;videoid=1507831872001&amp;title=Defense+of+Choices&amp;cc=%2E%2E/data/closed_caption/U2L3C9_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="338" type="">
+								<title>Quantity and Frequency of Alcohol and Drug Choices</title>
+								<!--<file src="/video-view/338/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=338&amp;videoid=820184718001&amp;title=Quantity+and+Frequency+of+Alcohol+and+Drug+Choices&amp;cc=%2E%2E/data/closed_caption/U2L3C10_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="339" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/339/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=339&amp;videoid=1452895212001&amp;title=Social+Dependence&amp;cc=%2E%2E/data/closed_caption/U2L3C12_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11641" type="">
+						<title>Outcomes</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="340" type="">
+								<title>Orange Phase Outcomes Video</title>
+								<!--<file src="/video-view/340/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=340&amp;videoid=738315029001&amp;title=Orange+Phase+Outcomes+Video&amp;cc=%2E%2E/data/closed_caption/U2L3C13_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="79" type="evaluation">-->
+							<node id="341" type="">
+								<title>Menu of Orange Phase Outcomes</title>
+								<!--<file src="/assets/evalobject/341/evalobject.xml" />-->
+								<file src="341.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="342" type="">
+								<title>Tolerance</title>
+								<!--<file src="/video-view/342/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=342&amp;videoid=760720641001&amp;title=Tolerance&amp;cc=%2E%2E/data/closed_caption/U2L3C15A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="81" type="evaluation">-->
+							<node id="343" type="">
+								<title>Tolerance Questions</title>
+								<!--<file src="/assets/evalobject/343/evalobject.xml" />-->
+								<file src="343.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="82" type="evaluation">-->
+							<node id="11414" type="">
+								<title>Tolerance Questions 2</title>
+								<!--<file src="/assets/evalobject/11414/evalobject.xml" />-->
+								<file src="11414.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="83" type="evaluation">-->
+							<node id="11415" type="">
+								<title>Tolerance Questions 3</title>
+								<!--<file src="/assets/evalobject/11415/evalobject.xml" />-->
+								<file src="11415.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="344" type="">
+								<title>Thinking and Memory Changes: Abstract Impairment</title>
+								<!--<file src="/video-view/344/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=344&amp;videoid=1543723670001&amp;title=Thinking+and+Memory+Changes%3A+Abstract+Impairment&amp;cc=%2E%2E/data/closed_caption/U2L3C16_cc_0" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="345" type="">
+								<title>Rebound Effects: Drinking to Cure Hangovers</title>
+								<!--<file src="/video-view/345/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=345&amp;videoid=1543704577001&amp;title=Rebound+Effects%3A+Drinking+to+Cure+Hangovers&amp;cc=%2E%2E/data/closed_caption/U2L3C19_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="346" type="">
+								<title>Rebound Effects: Marijuana and Theta Waves</title>
+								<!--<file src="/video-view/346/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=346&amp;videoid=1450519970001&amp;title=Rebound+Effects%3A+Marijuana+and+Theta+Waves&amp;cc=%2E%2E/data/closed_caption/U2L3C20_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="347" type="">
+								<title>Problem Outcomes: Orange Phase Problems</title>
+								<!--<file src="/video-view/347/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=347&amp;videoid=1467194488001&amp;title=Problem+Outcomes%3A+Orange+Phase+Problems&amp;cc=%2E%2E/data/closed_caption/U2L3C21_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11642" type="">
+						<title>Marketing</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="348" type="">
+								<title>Marketing Video</title>
+								<!--<file src="/video-view/348/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=348&amp;videoid=820280290001&amp;title=Marketing+Video&amp;cc=%2E%2E/data/closed_caption/U2L3C22_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11643" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="70" type="">
+								<title>Summary Info Graphic</title>
+								<!--<file src="/video-view/70/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=70&amp;videoid=1538785979001&amp;title=Summary+Info+Graphic&amp;cc=%2E%2E/data/closed_caption/U2L3C24_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="92" type="evaluation">-->
+							<node id="351" type="">
+								<title>Check for Understanding</title>
+								<!--<file src="/assets/evalobject/351/evalobject.xml" />-->
+								<file src="351.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="93" type="evaluation">-->
+							<node id="11413" type="">
+								<title>Check for Understanding 2</title>
+								<!--<file src="/assets/evalobject/11413/evalobject.xml" />-->
+								<file src="11413.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="94" type="evaluation">-->
+							<node id="11412" type="">
+								<title>Check for Understanding 3</title>
+								<!--<file src="/assets/evalobject/11412/evalobject.xml" />-->
+								<file src="11412.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="95" type="evaluation">-->
+							<node id="11411" type="">
+								<title>Check for Understanding 4</title>
+								<!--<file src="/assets/evalobject/11411/evalobject.xml" />-->
+								<file src="11411.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11644" type="">
+						<title>Review</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="352" type="">
+								<title>Review Matrix Video</title>
+								<!--<file src="/video-view/352/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=352&amp;videoid=738342320001&amp;title=Review+Matrix+Video&amp;cc=%2E%2E/data/closed_caption/U2L3C29_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="98" type="evaluation">-->
+							<node id="353" type="">
+								<title>Review Matrix Menu</title>
+								<!--<file src="/assets/evalobject/353/evalobject.xml" />-->
+								<file src="353.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11513" type="">
+								<title>Psychological Dependence</title>
+								<!--<file src="/video-view/11513/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11513&amp;videoid=1560964863001&amp;title=Psychological+Dependence&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C2_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11514" type="">
+								<title>Intergration Preoccupation</title>
+								<!--<file src="/video-view/11514/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11514&amp;videoid=778783624001&amp;title=Intergration+Preoccupation&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C4_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11518" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/11518/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11518&amp;videoid=1452895212001&amp;title=Social+Dependence&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C12_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11511" type="">
+								<title>Tolerance</title>
+								<!--<file src="/video-view/11511/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11511&amp;videoid=760720641001&amp;title=Tolerance&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C15A_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="103" type="evaluation">-->
+							<node id="11519" type="">
+								<title>Tolerance</title>
+								<!--<file src="/assets/evalobject/11519/evalobject.xml" />-->
+								<file src="11519.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="104" type="evaluation">-->
+							<node id="11520" type="">
+								<title>Tolerance Questions</title>
+								<!--<file src="/assets/evalobject/11520/evalobject.xml" />-->
+								<file src="11520.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11509" type="">
+								<title>Thinking and Memory Changes</title>
+								<!--<file src="/video-view/11509/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11509&amp;videoid=1543723670001&amp;title=Thinking+and+Memory+Changes&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C16_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11521" type="">
+								<title>Rebound Effects</title>
+								<!--<file src="/video-view/11521/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11521&amp;videoid=1543704577001&amp;title=Rebound+Effects&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C19_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11510" type="">
+								<title>Rebound Effects</title>
+								<!--<file src="/video-view/11510/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11510&amp;videoid=1450519970001&amp;title=Rebound+Effects&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C20_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11512" type="">
+								<title>Problem Outcomes</title>
+								<!--<file src="/video-view/11512/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11512&amp;videoid=1467194488001&amp;title=Problem+Outcomes&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L3C21_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11345" type="">
+								<title>Defense of Choices</title>
+								<!--<file src="/video-view/11345/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11345&amp;videoid=798434255001&amp;title=Defense+of+Choices&amp;button=true&amp;cc=%2E%2E/data/closed_caption/Orange_DOC_video_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11344" type="">
+								<title>Sense of Relationship</title>
+								<!--<file src="/video-view/11344/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11344&amp;videoid=798456122001&amp;title=Sense+of+Relationship&amp;button=true&amp;cc=%2E%2E/data/closed_caption/Orange_SOR_video_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11343" type="">
+								<title>State Dependent Learning</title>
+								<!--<file src="/video-view/11343/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11343&amp;videoid=797680898001&amp;title=State+Dependent+Learning&amp;button=true&amp;cc=%2E%2E/data/closed_caption/Orange_SDL_video_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="354" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="354.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="325" type="scene">
+				<title>Red Phase: Addiction</title>
+				<node-collection>
+					<node id="11645" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="114" type="evaluation">-->
+							<node id="11498" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11498/evalobject.xml" />-->
+								<file src="11498.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="355" type="">
+								<title>Red Phase: Addiction</title>
+								<!--<file src="/video-view/355/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=355&amp;videoid=738431282001&amp;title=Red+Phase%3A+Addiction" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="356" type="">
+								<title>Red Phase Hallmarks</title>
+								<!--<file src="/video-view/356/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=356&amp;videoid=1553875099001&amp;title=Red+Phase+Hallmarks&amp;cc=%2E%2E/data/closed_caption/U2L4C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11646" type="">
+						<title>Characteristics</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="357" type="">
+								<title>Nature of Choices: Loss of Control Info Graphic</title>
+								<!--<file src="/video-view/357/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=357&amp;videoid=1519737692001&amp;title=Nature+of+Choices%3A+Loss+of+Control+Info+Graphic&amp;cc=%2E%2E/data/closed_caption/U2L4C5_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="358" type="">
+								<title>Nature of Choices: Loss of Control Video</title>
+								<!--<file src="/video-view/358/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=358&amp;videoid=1544048472001&amp;title=Nature+of+Choices%3A+Loss+of+Control+Video&amp;cc=%2E%2E/data/closed_caption/U2L4C7_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="120" type="evaluation">-->
+							<node id="359" type="">
+								<title>Importance: Central to Life</title>
+								<!--<file src="/assets/evalobject/359/evalobject.xml" />-->
+								<file src="359.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="360" type="">
+								<title>Psychological Dependence: Relationship</title>
+								<!--<file src="/video-view/360/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=360&amp;videoid=1544044134001&amp;title=Psychological+Dependence%3A+Relationship&amp;cc=%2E%2E/data/closed_caption/U2L4C9_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="361" type="">
+								<title>Psychological Dependence: Defense of Choices</title>
+								<!--<file src="/video-view/361/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=361&amp;videoid=1532650632001&amp;title=Psychological+Dependence%3A+Defense+of+Choices&amp;cc=%2E%2E/data/closed_caption/U2L4C11_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="362" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/362/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=362&amp;videoid=1547306061001&amp;title=Social+Dependence&amp;cc=%2E%2E/data/closed_caption/U2L4C12_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11647" type="">
+						<title>Outcomes</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="125" type="evaluation">-->
+							<node id="363" type="">
+								<title>Menu of Red Phase Outcomes</title>
+								<!--<file src="/assets/evalobject/363/evalobject.xml" />-->
+								<file src="363.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="364" type="">
+								<title>Changes in  Tolerance</title>
+								<!--<file src="/video-view/364/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=364&amp;videoid=1467112355001&amp;title=Changes+in++Tolerance&amp;cc=%2E%2E/data/closed_caption/U2L4C16_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="365" type="">
+								<title>Thinking and Memory Changes: Blackouts</title>
+								<!--<file src="/video-view/365/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=365&amp;videoid=1558808562001&amp;title=Thinking+and+Memory+Changes%3A+Blackouts&amp;cc=%2E%2E/data/closed_caption/U2L4C17A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="128" type="evaluation">-->
+							<node id="366" type="">
+								<title>Thinking and Memory Changes: Memory Blackouts, Part 2</title>
+								<!--<file src="/assets/evalobject/366/evalobject.xml" />-->
+								<file src="366.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="367" type="">
+								<title>Rebound Effects: Varying Degrees of Withdrawal</title>
+								<!--<file src="/video-view/367/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=367&amp;videoid=1544044118001&amp;title=Rebound+Effects%3A+Varying+Degrees+of+Withdrawal&amp;cc=%2E%2E/data/closed_caption/U2L4C18_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="368" type="">
+								<title>Problem Outcomes: Red Phase Problems</title>
+								<!--<file src="/video-view/368/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=368&amp;videoid=1544044098001&amp;title=Problem+Outcomes%3A+Red+Phase+Problems&amp;cc=%2E%2E/data/closed_caption/U2L4C19_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11648" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="369" type="">
+								<title>Red Phase Marketing</title>
+								<!--<file src="/video-view/369/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=369&amp;videoid=1544039573001&amp;title=Red+Phase+Marketing&amp;cc=%2E%2E/data/closed_caption/U2L4C20_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="370" type="">
+								<title>Summary Info Graphic</title>
+								<!--<file src="/video-view/370/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=370&amp;videoid=792516124001&amp;title=Summary+Info+Graphic&amp;cc=%2E%2E/data/closed_caption/U2L4C22A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="371" type="">
+								<title>Progression and Recovery</title>
+								<!--<file src="/video-view/371/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=371&amp;videoid=755132167001&amp;title=Progression+and+Recovery&amp;cc=%2E%2E/data/closed_caption/U2L4C22B_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="135" type="evaluation">-->
+							<node id="372" type="">
+								<title>Check for Understanding</title>
+								<!--<file src="/assets/evalobject/372/evalobject.xml" />-->
+								<file src="372.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="136" type="evaluation">-->
+							<node id="11522" type="">
+								<title>Check for Understanding 2</title>
+								<!--<file src="/assets/evalobject/11522/evalobject.xml" />-->
+								<file src="11522.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="137" type="evaluation">-->
+							<node id="11523" type="">
+								<title>Check for Understanding 3</title>
+								<!--<file src="/assets/evalobject/11523/evalobject.xml" />-->
+								<file src="11523.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="138" type="evaluation">-->
+							<node id="11524" type="">
+								<title>Check for Understanding 4</title>
+								<!--<file src="/assets/evalobject/11524/evalobject.xml" />-->
+								<file src="11524.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="139" type="evaluation">-->
+							<node id="11525" type="">
+								<title>Check for Understanding 5</title>
+								<!--<file src="/assets/evalobject/11525/evalobject.xml" />-->
+								<file src="11525.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="140" type="evaluation">-->
+							<node id="11526" type="">
+								<title>Check for Understanding 6</title>
+								<!--<file src="/assets/evalobject/11526/evalobject.xml" />-->
+								<file src="11526.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="141" type="evaluation">-->
+							<node id="11527" type="">
+								<title>Check for Understanding 7</title>
+								<!--<file src="/assets/evalobject/11527/evalobject.xml" />-->
+								<file src="11527.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="142" type="evaluation">-->
+							<node id="11528" type="">
+								<title>Check for Understanding 8</title>
+								<!--<file src="/assets/evalobject/11528/evalobject.xml" />-->
+								<file src="11528.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="143" type="evaluation">-->
+							<node id="11529" type="">
+								<title>Check for Understanding 9</title>
+								<!--<file src="/assets/evalobject/11529/evalobject.xml" />-->
+								<file src="11529.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11711" type="">
+						<title>Review</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="373" type="">
+								<title>Review Matrix Video</title>
+								<!--<file src="/video-view/373/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=373&amp;videoid=754411258001&amp;title=Review+Matrix+Video&amp;cc=%2E%2E/data/closed_caption/U2L4C24_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="146" type="evaluation">-->
+							<node id="374" type="">
+								<title>Review Matrix Menu</title>
+								<!--<file src="/assets/evalobject/374/evalobject.xml" />-->
+								<file src="374.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11530" type="">
+								<title>Red Phase Hallmarks</title>
+								<!--<file src="/video-view/11530/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11530&amp;videoid=1553875099001&amp;title=Red+Phase+Hallmarks&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C2_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="148" type="evaluation">-->
+							<node id="11558" type="">
+								<title>Importance: Central to Life</title>
+								<!--<file src="/assets/evalobject/11558/evalobject.xml" />-->
+								<file src="11558.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11531" type="">
+								<title>Importance: Central To Life</title>
+								<!--<file src="/video-view/11531/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11531&amp;videoid=812919107001&amp;title=Importance%3A+Central+To+Life&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C8A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11533" type="">
+								<title>Sense Of Relationship</title>
+								<!--<file src="/video-view/11533/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11533&amp;videoid=1544044134001&amp;title=Sense+Of+Relationship&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C9_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11534" type="">
+								<title>Defense Of Choices</title>
+								<!--<file src="/video-view/11534/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11534&amp;videoid=1532650632001&amp;title=Defense+Of+Choices&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C11_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11535" type="">
+								<title>Social Dependence</title>
+								<!--<file src="/video-view/11535/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11535&amp;videoid=1547306061001&amp;title=Social+Dependence&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C12_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11536" type="">
+								<title>Tolerance</title>
+								<!--<file src="/video-view/11536/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11536&amp;videoid=1467112355001&amp;title=Tolerance&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C16_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11537" type="">
+								<title>Thinking Memory Changes</title>
+								<!--<file src="/video-view/11537/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11537&amp;videoid=1558808562001&amp;title=Thinking+Memory+Changes&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C17A_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="155" type="evaluation">-->
+							<node id="11539" type="">
+								<title>Thinking Memory Changes 2</title>
+								<!--<file src="/assets/evalobject/11539/evalobject.xml" />-->
+								<file src="11539.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11538" type="">
+								<title>Rebound Effects</title>
+								<!--<file src="/video-view/11538/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11538&amp;videoid=1544044118001&amp;title=Rebound+Effects&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C18_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11540" type="">
+								<title>Problems</title>
+								<!--<file src="/video-view/11540/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11540&amp;videoid=1544044098001&amp;title=Problems&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C19_cc_0" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11650" type="">
+						<title>Progression Review</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="375" type="">
+								<title>Progression Matrix Video</title>
+								<!--<file src="/video-view/375/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=375&amp;videoid=754387886001&amp;title=Progression+Matrix+Video&amp;cc=%2E%2E/data/closed_caption/U2L4C26_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="160" type="evaluation">-->
+							<node id="376" type="">
+								<title>Progression Matrix Menu</title>
+								<!--<file src="/assets/evalobject/376/evalobject.xml" />-->
+								<file src="376.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="377" type="">
+								<title>Progression of Hallmarks</title>
+								<!--<file src="/video-view/377/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=377&amp;videoid=791365596001&amp;title=Progression+of+Hallmarks&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C28_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="378" type="">
+								<title>Progression of Tolerance</title>
+								<!--<file src="/video-view/378/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=378&amp;videoid=779872734001&amp;title=Progression+of+Tolerance&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C29_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="379" type="">
+								<title>Progression of Thinking and Memory Changes</title>
+								<!--<file src="/video-view/379/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=379&amp;videoid=791374954001&amp;title=Progression+of+Thinking+and+Memory+Changes&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C30_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="380" type="">
+								<title>Progression of Rebound Effects</title>
+								<!--<file src="/video-view/380/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=380&amp;videoid=821406628001&amp;title=Progression+of+Rebound+Effects&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C31_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="381" type="">
+								<title>Progression of Problem Outcomes</title>
+								<!--<file src="/video-view/381/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=381&amp;videoid=798465140001&amp;title=Progression+of+Problem+Outcomes&amp;button=true&amp;cc=%2E%2E/data/closed_caption/U2L4C32_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11651" type="">
+						<title>My Experiences</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="382" type="">
+								<title>My Experiences Video</title>
+								<!--<file src="/video-view/382/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=382&amp;videoid=754411254001&amp;title=My+Experiences+Video&amp;cc=%2E%2E/data/closed_caption/U2L4C33_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="383" type="">
+								<title>My Experiences Reflection Questions</title>
+								<file src="383.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11276" type="">
+								<title>My Experiences Self- Assessment Reflection Questions 2</title>
+								<file src="11276.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="170" type="evaluation">-->
+							<node id="11548" type="">
+								<title>My Experiences Self-Assessment</title>
+								<!--<file src="/assets/evalobject/11548/evalobject.xml" />-->
+								<file src="11548.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="171" type="evaluation">-->
+							<node id="11547" type="">
+								<title>My Experiences Self-Assessment 2</title>
+								<!--<file src="/assets/evalobject/11547/evalobject.xml" />-->
+								<file src="11547.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="172" type="evaluation">-->
+							<node id="11549" type="">
+								<title>My Experiences Self-Assessment 3</title>
+								<!--<file src="/assets/evalobject/11549/evalobject.xml" />-->
+								<file src="11549.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="173" type="evaluation">-->
+							<node id="11279" type="">
+								<title>My Experiences Self-Assessment 4</title>
+								<!--<file src="/assets/evalobject/11279/evalobject.xml" />-->
+								<file src="11279.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="385" type="">
+								<title>Self-Assessment Discussion</title>
+								<!--<file src="/video-view/385/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=385&amp;videoid=755099427001&amp;title=Self-Assessment+Discussion&amp;cc=%2E%2E/data/closed_caption/U2L4C35_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11280" type="">
+								<title>My Experiences Reflection Questions</title>
+								<file src="11280.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11281" type="">
+								<title>My Experiences Reflection Questions 2</title>
+								<file src="11281.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11499" type="">
+								<title>My Experiences Globe - Share Question</title>
+								<file src="11499.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="387" type="">
+								<title>My Experiences Globe</title>
+								<!--<file src="map/responseMap.html?nid=&amp;title=My+Experiences+Globe" /> -->
+								<file src="map/responseMap.html?nid=&amp;question=How+will+this+information+help+me+prevent+future+problems%3F&amp;title=My+Experiences+Globe" />
+								<Show-in-outline-></Show-in-outline->
+							</node>
+							<node id="388" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="388.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="326" type="scene">
+				<title>Making the Risk Real</title>
+				<node-collection>
+					<node id="11652" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="181" type="evaluation">-->
+							<node id="11444" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11444/evalobject.xml" />-->
+								<file src="11444.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="389" type="">
+								<title>Making the Risk Real</title>
+								<!--<file src="/video-view/389/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=389&amp;videoid=738431238001&amp;title=Making+the+Risk+Real" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="390" type="">
+								<title>Introduction Video</title>
+								<!--<file src="/video-view/390/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=390&amp;videoid=756527912001&amp;title=Introduction+Video&amp;cc=%2E%2E/data/closed_caption/U2L5C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11653" type="">
+						<title>Treasures Lost Videos</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="185" type="evaluation">-->
+							<node id="391" type="">
+								<title>Video Selection Menu</title>
+								<!--<file src="/assets/evalobject/391/evalobject.xml" />-->
+								<file src="391.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11350" type="">
+								<title>intro_video</title>
+								<!--<file src="/video-view/11350/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11350&amp;videoid=1531066902001&amp;title=intro_video&amp;cc=%2E%2E/data/closed_caption/intro_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11354" type="">
+								<title>jonErik_video</title>
+								<!--<file src="/video-view/11354/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11354&amp;videoid=755938158001&amp;title=jonErik_video&amp;cc=%2E%2E/data/closed_caption/jonErik_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11352" type="">
+								<title>hailey_video</title>
+								<!--<file src="/video-view/11352/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11352&amp;videoid=755938161001&amp;title=hailey_video&amp;cc=%2E%2E/data/closed_caption/hailey_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11348" type="">
+								<title>armando_video</title>
+								<!--<file src="/video-view/11348/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11348&amp;videoid=755914566001&amp;title=armando_video&amp;cc=%2E%2E/data/closed_caption/armando_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11355" type="">
+								<title>stephanie_video_do not use_DELETE</title>
+								<!--<file src="/video-view/11355/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11355&amp;videoid=755217063001&amp;title=stephanie_video_do+not+use_DELETE" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11353" type="">
+								<title>joe_video</title>
+								<!--<file src="/video-view/11353/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11353&amp;videoid=755905398001&amp;title=joe_video&amp;cc=%2E%2E/data/closed_caption/joe_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11351" type="">
+								<title>derek_video</title>
+								<!--<file src="/video-view/11351/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11351&amp;videoid=755905400001&amp;title=derek_video&amp;cc=%2E%2E/data/closed_caption/derek_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11349" type="">
+								<title>dave_video</title>
+								<!--<file src="/video-view/11349/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11349&amp;videoid=755938163001&amp;title=dave_video&amp;cc=%2E%2E/data/closed_caption/dave_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11347" type="">
+								<title>allen_video</title>
+								<!--<file src="/video-view/11347/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11347&amp;videoid=755914567001&amp;title=allen_video&amp;cc=%2E%2E/data/closed_caption/allen_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="11356" type="">
+								<title>outro_video</title>
+								<!--<file src="/video-view/11356/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11356&amp;videoid=755938164001&amp;title=outro_video&amp;cc=%2E%2E/data/closed_caption/outro_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="392" type="">
+								<title>Processing Video</title>
+								<!--<file src="/video-view/392/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=392&amp;videoid=756523369001&amp;title=Processing+Video&amp;cc=%2E%2E/data/closed_caption/U2L5C5_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="197" type="evaluation">-->
+							<node id="393" type="">
+								<title>Treasures Lost Processing Questions</title>
+								<!--<file src="/assets/evalobject/393/evalobject.xml" />-->
+								<file src="393.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="198" type="evaluation">-->
+							<node id="11447" type="">
+								<title>Treasures Lost Processing Questions 2</title>
+								<!--<file src="/assets/evalobject/11447/evalobject.xml" />-->
+								<file src="11447.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="199" type="evaluation">-->
+							<node id="11446" type="">
+								<title>Treasures Lost Processing Questions 3</title>
+								<!--<file src="/assets/evalobject/11446/evalobject.xml" />-->
+								<file src="11446.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="200" type="evaluation">-->
+							<node id="11445" type="">
+								<title>Treasures Lost Processing Questions 4</title>
+								<!--<file src="/assets/evalobject/11445/evalobject.xml" />-->
+								<file src="11445.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11654" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="394" type="">
+								<title>Treasures Lost Processing Answers from Online Users</title>
+								<!--<file src="/video-view/394/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=394&amp;videoid=818951496001&amp;title=Treasures+Lost+Processing+Answers+from+Online+Users&amp;cc=%2E%2E/data/closed_caption/U2L5C8_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="395" type="">
+								<title>Reflection Questions</title>
+								<file src="395.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="396" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="396.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="397" type="scene">
+				<title>The Spiral</title>
+				<node-collection>
+					<node id="11655" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="206" type="evaluation">-->
+							<node id="11425" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11425/evalobject.xml" />-->
+								<file src="11425.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="400" type="">
+								<title>The Spiral</title>
+								<!--<file src="/video-view/400/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=400&amp;videoid=738436500001&amp;title=The+Spiral" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="401" type="">
+								<title>Introduction Video</title>
+								<!--<file src="/video-view/401/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=401&amp;videoid=1526521973001&amp;title=Introduction+Video&amp;cc=%2E%2E/data/closed_caption/U2L6C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="402" type="">
+								<title>The Spiral in the Formula</title>
+								<!--<file src="/video-view/402/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=402&amp;videoid=1502831340001&amp;title=The+Spiral+in+the+Formula&amp;cc=%2E%2E/data/closed_caption/U2L6C2A_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11656" type="">
+						<title>The Spiral Activity</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="403" type="">
+								<title>Why is There a Difference in What We See?</title>
+								<!--<file src="/video-view/403/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=403&amp;videoid=1519075040001&amp;title=Why+is+There+a+Difference+in+What+We+See%3F&amp;cc=%2E%2E/data/closed_caption/U2L6C3_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="212" type="evaluation">-->
+							<node id="11426" type="">
+								<title>Identifying the Spiral</title>
+								<!--<file src="/assets/evalobject/11426/evalobject.xml" />-->
+								<file src="11426.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="405" type="">
+								<title>Spiral Video 1</title>
+								<!--<file src="/video-view/405/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=405&amp;videoid=1511103460001&amp;title=Spiral+Video+1&amp;cc=%2E%2E/data/closed_caption/U2L6C5_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="214" type="evaluation">-->
+							<node id="11427" type="">
+								<title>Spiral Interaction 1</title>
+								<!--<file src="/assets/evalobject/11427/evalobject.xml" />-->
+								<file src="11427.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="406" type="">
+								<title>Spiral Video 2</title>
+								<!--<file src="/video-view/406/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=406&amp;videoid=1519073621001&amp;title=Spiral+Video+2&amp;cc=%2E%2E/data/closed_caption/U2L6C6A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="216" type="evaluation">-->
+							<node id="11428" type="">
+								<title>Spiral Interaction 2</title>
+								<!--<file src="/assets/evalobject/11428/evalobject.xml" />-->
+								<file src="11428.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="407" type="">
+								<title>Spiral Video 3</title>
+								<!--<file src="/video-view/407/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=407&amp;videoid=1511128991001&amp;title=Spiral+Video+3&amp;cc=%2E%2E/data/closed_caption/U2L6C7_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="218" type="evaluation">-->
+							<node id="11429" type="">
+								<title>Spiral Interaction 3</title>
+								<!--<file src="/assets/evalobject/11429/evalobject.xml" />-->
+								<file src="11429.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="408" type="">
+								<title>Spiral Video 4</title>
+								<!--<file src="/video-view/408/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=408&amp;videoid=1519075038001&amp;title=Spiral+Video+4&amp;cc=%2E%2E/data/closed_caption/U2L6C8A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="220" type="evaluation">-->
+							<node id="11430" type="">
+								<title>Spiral Interaction 4</title>
+								<!--<file src="/assets/evalobject/11430/evalobject.xml" />-->
+								<file src="11430.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="409" type="">
+								<title>Spiral Video 5</title>
+								<!--<file src="/video-view/409/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=409&amp;videoid=1511128989001&amp;title=Spiral+Video+5&amp;cc=%2E%2E/data/closed_caption/U2L6C9_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="222" type="evaluation">-->
+							<node id="11431" type="">
+								<title>Spiral Interaction 5</title>
+								<!--<file src="/assets/evalobject/11431/evalobject.xml" />-->
+								<file src="11431.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="410" type="">
+								<title>Spiral Video 6</title>
+								<!--<file src="/video-view/410/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=410&amp;videoid=1519075037001&amp;title=Spiral+Video+6&amp;cc=%2E%2E/data/closed_caption/U2L6C10A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="224" type="evaluation">-->
+							<node id="11432" type="">
+								<title>Spiral Interaction 6</title>
+								<!--<file src="/assets/evalobject/11432/evalobject.xml" />-->
+								<file src="11432.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="411" type="">
+								<title>Spiral Video 7</title>
+								<!--<file src="/video-view/411/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=411&amp;videoid=1532994241001&amp;title=Spiral+Video+7&amp;cc=%2E%2E/data/closed_caption/U2L6C11_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="226" type="evaluation">-->
+							<node id="11433" type="">
+								<title>Spiral Interaction 7</title>
+								<!--<file src="/assets/evalobject/11433/evalobject.xml" />-->
+								<file src="11433.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="412" type="">
+								<title>Spiral Video 8</title>
+								<!--<file src="/video-view/412/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=412&amp;videoid=1526786234001&amp;title=Spiral+Video+8&amp;cc=%2E%2E/data/closed_caption/U2L6C12A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="228" type="evaluation">-->
+							<node id="11434" type="">
+								<title>Spiral Interaction 8</title>
+								<!--<file src="/assets/evalobject/11434/evalobject.xml" />-->
+								<file src="11434.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="413" type="">
+								<title>Spiral Video 9</title>
+								<!--<file src="/video-view/413/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=413&amp;videoid=1481227056001&amp;title=Spiral+Video+9&amp;cc=%2E%2E/data/closed_caption/U2L6C13_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="230" type="evaluation">-->
+							<node id="11435" type="">
+								<title>Spiral Interaction 9</title>
+								<!--<file src="/assets/evalobject/11435/evalobject.xml" />-->
+								<file src="11435.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="414" type="">
+								<title>Spiral Video 10</title>
+								<!--<file src="/video-view/414/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=414&amp;videoid=1519075031001&amp;title=Spiral+Video+10&amp;cc=%2E%2E/data/closed_caption/U2L6C14A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="232" type="evaluation">-->
+							<node id="11436" type="">
+								<title>Spiral Interaction 10</title>
+								<!--<file src="/assets/evalobject/11436/evalobject.xml" />-->
+								<file src="11436.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="415" type="">
+								<title>Spiral Video 11</title>
+								<!--<file src="/video-view/415/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=415&amp;videoid=1481227014001&amp;title=Spiral+Video+11&amp;cc=%2E%2E/data/closed_caption/U2L6C15_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="234" type="evaluation">-->
+							<node id="11437" type="">
+								<title>Spiral Interaction 11</title>
+								<!--<file src="/assets/evalobject/11437/evalobject.xml" />-->
+								<file src="11437.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="416" type="">
+								<title>Spiral Video 12</title>
+								<!--<file src="/video-view/416/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=416&amp;videoid=1519073617001&amp;title=Spiral+Video+12&amp;cc=%2E%2E/data/closed_caption/U2L6C16A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="236" type="evaluation">-->
+							<node id="11438" type="">
+								<title>Spiral Interaction 12</title>
+								<!--<file src="/assets/evalobject/11438/evalobject.xml" />-->
+								<file src="11438.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="417" type="">
+								<title>Spiral Video 13</title>
+								<!--<file src="/video-view/417/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=417&amp;videoid=1559360737001&amp;title=Spiral+Video+13&amp;cc=%2E%2E/data/closed_caption/U2L6C17_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="238" type="evaluation">-->
+							<node id="11439" type="">
+								<title>Spiral Interaction 13</title>
+								<!--<file src="/assets/evalobject/11439/evalobject.xml" />-->
+								<file src="11439.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="418" type="">
+								<title>Spiral Video 14</title>
+								<!--<file src="/video-view/418/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=418&amp;videoid=1526595960001&amp;title=Spiral+Video+14&amp;cc=%2E%2E/data/closed_caption/U2L6C18A_cc" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="240" type="evaluation">-->
+							<node id="11440" type="">
+								<title>Spiral Interaction 14</title>
+								<!--<file src="/assets/evalobject/11440/evalobject.xml" />-->
+								<file src="11440.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11657" type="">
+						<title>Review</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="419" type="">
+								<title>Spiral Review</title>
+								<!--<file src="/video-view/419/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=419&amp;videoid=1502809675001&amp;title=Spiral+Review&amp;cc=%2E%2E/data/closed_caption/U2L6C19_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="420" type="">
+								<title>Wrapping Up the Spiral</title>
+								<!--<file src="/video-view/420/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=420&amp;videoid=1526556352001&amp;title=Wrapping+Up+the+Spiral&amp;cc=%2E%2E/data/closed_caption/U2L6C20_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="244" type="evaluation">-->
+							<node id="11441" type="">
+								<title>Spiral Response Scale</title>
+								<!--<file src="/assets/evalobject/11441/evalobject.xml" />-->
+								<file src="11441.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="245" type="evaluation">-->
+							<node id="11442" type="">
+								<title>Spiral Reflections</title>
+								<!--<file src="/assets/evalobject/11442/evalobject.xml" />-->
+								<file src="11442.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11443" type="">
+								<title>Summary</title>
+								<file src="11443.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="398" type="scene">
+				<title>A Closer Look at My Own Choices</title>
+				<node-collection>
+					<node id="11658" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="248" type="evaluation">-->
+							<node id="11416" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11416/evalobject.xml" />-->
+								<file src="11416.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="421" type="">
+								<title>A Closer Look at My Own Choices</title>
+								<!--<file src="/video-view/421/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=421&amp;videoid=738433058001&amp;title=A+Closer+Look+at+My+Own+Choices" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="422" type="">
+								<title>Introduction Video</title>
+								<!--<file src="/video-view/422/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=422&amp;videoid=847335868001&amp;title=Introduction+Video&amp;cc=%2E%2E/data/closed_caption/U2L7C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="251" type="evaluation">-->
+							<node id="423" type="">
+								<title>My Drinking Choices</title>
+								<!--<file src="/assets/evalobject/423/evalobject.xml" />-->
+								<file src="423.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="252" type="evaluation">-->
+							<node id="11417" type="">
+								<title>My Drinking Choices 2</title>
+								<!--<file src="/assets/evalobject/11417/evalobject.xml" />-->
+								<file src="11417.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="253" type="evaluation">-->
+							<node id="11419" type="">
+								<title>My Drinking Choices 3</title>
+								<!--<file src="/assets/evalobject/11419/evalobject.xml" />-->
+								<file src="11419.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="254" type="evaluation">-->
+							<node id="11418" type="">
+								<title>My Drinking Choices 4</title>
+								<!--<file src="/assets/evalobject/11418/evalobject.xml" />-->
+								<file src="11418.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<node id="424" type="">
+								<title>My Drinking Choices Question</title>
+								<file src="424.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11659" type="">
+						<title>What My Problems Cost Me</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="425" type="">
+								<title>Cost Video</title>
+								<!--<file src="/video-view/425/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=425&amp;videoid=756527902001&amp;title=Cost+Video&amp;cc=%2E%2E/data/closed_caption/U2L7C5_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="258" type="evaluation">-->
+							<node id="11314" type="">
+								<title>Pre-Assessment</title>
+								<!--<file src="/assets/evalobject/11314/evalobject.xml" />-->
+								<file src="11314.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="259" type="evaluation">-->
+							<node id="11315" type="">
+								<title>Pre-Assessment 2</title>
+								<!--<file src="/assets/evalobject/11315/evalobject.xml" />-->
+								<file src="11315.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="260" type="evaluation">-->
+							<node id="427" type="">
+								<title>Calculation</title>
+								<!--<file src="/assets/evalobject/427/evalobject.xml" />-->
+								<file src="427.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11660" type="">
+						<title>Timeline</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="428" type="">
+								<title>Timeline Interaction Video</title>
+								<!--<file src="/video-view/428/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=428&amp;videoid=777279839001&amp;title=Timeline+Interaction+Video&amp;cc=%2E%2E/data/closed_caption/U2L7C9_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="263" type="evaluation">-->
+							<node id="429" type="">
+								<title>A Timeline of My Experience</title>
+								<!--<file src="/assets/evalobject/429/evalobject.xml" />-->
+								<file src="429.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="264" type="evaluation">-->
+							<node id="426" type="">
+								<title>Timeline Reflection Questions</title>
+								<!--<file src="/assets/evalobject/426/evalobject.xml" />-->
+								<file src="426.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="430" type="">
+								<title>Timeline Reflection Questions 2</title>
+								<file src="430.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11661" type="">
+						<title>Pros and Cons</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="431" type="">
+								<title>Pros and Cons Video</title>
+								<!--<file src="/video-view/431/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=431&amp;videoid=756528986001&amp;title=Pros+and+Cons+Video&amp;cc=%2E%2E/data/closed_caption/U2L7C13_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="268" type="evaluation">-->
+							<node id="432" type="">
+								<title>Pros and Cons Activity</title>
+								<!--<file src="/assets/evalobject/432/evalobject.xml" />-->
+								<file src="432.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="269" type="evaluation">-->
+							<node id="11420" type="">
+								<title>Pros and Cons Activity 2</title>
+								<!--<file src="/assets/evalobject/11420/evalobject.xml" />-->
+								<file src="11420.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="270" type="evaluation">-->
+							<node id="11421" type="">
+								<title>Pros and Cons Activity 3</title>
+								<!--<file src="/assets/evalobject/11421/evalobject.xml" />-->
+								<file src="11421.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="271" type="evaluation">-->
+							<node id="11422" type="">
+								<title>Pros and Cons Activity 4</title>
+								<!--<file src="/assets/evalobject/11422/evalobject.xml" />-->
+								<file src="11422.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="272" type="evaluation">-->
+							<node id="11423" type="">
+								<title>Pros and Cons Activity 5</title>
+								<!--<file src="/assets/evalobject/11423/evalobject.xml" />-->
+								<file src="11423.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+							<!--<node id="273" type="evaluation">-->
+							<node id="11424" type="">
+								<title>Pros and Cons Activity 6</title>
+								<!--<file src="/assets/evalobject/11424/evalobject.xml" />-->
+								<file src="11424.swf?pri" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11662" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="433" type="">
+								<title>Pros and Cons Summary</title>
+								<!--<file src="/video-view/433/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=433&amp;videoid=819943197001&amp;title=Pros+and+Cons+Summary&amp;cc=%2E%2E/data/closed_caption/U2L7C16_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="434" type="">
+								<title>Pros and Cons Video Summary</title>
+								<!--<file src="/video-view/434/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=434&amp;videoid=1508123189001&amp;title=Pros+and+Cons+Video+Summary&amp;cc=%2E%2E/data/closed_caption/U2L7C18_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="435" type="">
+								<title>Lesson Summary Screen</title>
+								<file src="435.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+			<node id="399" type="scene">
+				<title>Wolf Story</title>
+				<node-collection>
+					<node id="11663" type="">
+						<title>Introduction</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<!--<node id="279" type="evaluation">-->
+							<node id="11359" type="">
+								<title>Lesson Intro Screen</title>
+								<!--<file src="/assets/evalobject/11359/evalobject.xml" />-->
+								<file src="11359.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11357" type="">
+								<title>Which Wolf Will You Feed?</title>
+								<!--<file src="/video-view/11357/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11357&amp;videoid=738433059001&amp;title=Which+Wolf+Will+You+Feed%3F" />
+								<Show-in-outline->1</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+					<node id="11664" type="">
+						<title>Summary</title>
+						<Show-in-outline->0</Show-in-outline->
+						<node-collection>
+							<node id="11360" type="">
+								<title>Unit Summary</title>
+								<!--<file src="/video-view/11360/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11360&amp;videoid=827372085001&amp;title=Unit+Summary&amp;cc=%2E%2E/data/closed_caption/U2L8C2_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<node id="11361" type="">
+								<title>The Wolf Story</title>
+								<!--<file src="/video-view/11361/video.html" />-->
+								<file src="video/advancedVideoPlayerTest.html?nid=11361&amp;videoid=799731670001&amp;title=The+Wolf+Story&amp;cc=%2E%2E/data/closed_caption/U2L8C3_cc" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+							<!--<node id="284" type="evaluation">-->
+							<node id="11362" type="">
+								<title>Lesson Summary Screen</title>
+								<!--<file src="/assets/evalobject/11362/evalobject.xml" />-->
+								<file src="11362.swf?pri" />
+								<Show-in-outline->0</Show-in-outline->
+							</node>
+						</node-collection>
+					</node>
+				</node-collection>
+			</node>
+		</node-collection>
+	</module>
+</ICEObject>

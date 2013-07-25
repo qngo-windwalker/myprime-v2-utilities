@@ -131,6 +131,11 @@ var deb = (function() {
 			 surrogate.load(requestLoader, "goToLesson");
 			 }
 			 */
+		},
+		
+		go : function(nid)
+		{
+			surrogate.goto(nid);
 		}
 	};
 
